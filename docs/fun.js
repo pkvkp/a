@@ -42,7 +42,7 @@ var Spectrum = WaveSurfer.create({
         WaveSurfer.markers.create({
             markers: [
                 {
-                    time: 33,
+                    time: 29.5,
                     label: "Introduction",
                     color: '#ff990a',
                     position: 'top',
@@ -55,19 +55,19 @@ var Spectrum = WaveSurfer.create({
                     position: 'top'
                 },
                 {
-                    time: 194,
+                    time: 289,
                     label: "Rapport Building-Energy",
                     color: 'pink',
                     position: 'top'
                 },
                 {
-                    time: 244,
+                    time: 228,
                     label: "Polite",
                     color: 'blue',
                     position: 'top'
                 },
                 {
-                    time: 303,
+                    time: 247.5,
                     label: "Rapport Building-Empathy",
                     color: 'blue',
                     position: 'top'
